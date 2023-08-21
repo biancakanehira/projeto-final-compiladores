@@ -1,0 +1,39 @@
+programa
+	INTEGER a,b,c,d.
+	REAL e, f.	
+
+	escreva("Hello World!").
+	escreva("Digite o valor C").
+	leia(c).
+	
+	e := 2,0 * 2,0.
+	f := 2,0 / 8,0.
+	
+	se (e > f) entao
+		escreva(e).
+	fimse.
+	
+	a := 2.
+	b := 3 + 2 - 1 + 5 - 3 + a.
+
+	enquanto (a > b) entao
+		se (a > b) entao
+			escreva(a).
+		senao
+			escreva(b).
+		fimse.
+	fimenquanto.
+	
+	se (a > b) entao
+		escreva(a).
+		escreva("Hello World").
+	senao
+		se (a < b) entao
+			escreva(b).
+			escreva("Goodbye World").
+		senao
+			escreva("Indefinido").
+		fimse.
+	fimse.		
+		
+fimprog.
