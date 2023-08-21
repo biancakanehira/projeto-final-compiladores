@@ -20,7 +20,8 @@ Bianca Hidemi Kanehira - 11201811183
 
 ## Youtube
 
-https://youtu.be/vVJX1JvhHB0
+Link Antigo (entregue dentro do prazo, porém está sem som) -> https://youtu.be/vVJX1JvhHB0
+Link Novo (com som) -> https://youtu.be/1j-AGkKA9n4
 
 ## Para rodar o projeto
 
